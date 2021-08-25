@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylorwilk
 - 👀 I’m interested in software developement and audio engineering.
-- 🌱 I’m currently working on improving at C#, Javascript and using the .NET framework.
+- 🌱 I’m currently working on improving at Java, Spring Boot, MongoDB, Javascript and understanding microservices architecture.
 - 📫 How to reach me ...
 
 <!---
